@@ -1,6 +1,8 @@
 # RQpower preview
 
-Frozen v6 client preview, 25 November 2026.
+Mobile-refined v7 client preview, 26 November 2026.
+
+Compact responsive layouts and removal of the top utility strip; original public content retained.
 
 Render Static Site: branch `main`, build command `true`, publish directory `public`, auto-deploy disabled. No server, database or environment secrets required.
 
